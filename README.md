@@ -11,3 +11,4 @@ This tutorial will cover the following topics:
 - [History of C#](Background.md)
 - [Creating a Hello World Program](HelloWorld.md)
 - [Comments](Comments.md)
+- [Learning About Built-In Types and Variables](types-variables.md)
