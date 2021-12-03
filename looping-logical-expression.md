@@ -1,5 +1,4 @@
 # Looping Based on a Logical Expression
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Expression-Based Loops
 
