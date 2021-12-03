@@ -40,5 +40,8 @@
     - The combination of Operating System Architecture and CPU Architecture is known as the platform. 
       Platform dependent means the programming language code will run only on particular Operating System. 
     
-    - A .NET application is platform-dependent because of the .NET framework which is only able to run on the Windows-based operating system. The .Net application is               platform-independent also because of the Mono framework. Using the Mono framework the .Net application can run on any Operating System including windows. Mono framework       is a third-party software developed by Novell Company which is now a part of Micro Focus Company. It is a paid framework. 
+    - A .NET application is platform-dependent because of the .NET framework which is only able to run on the Windows-based operating system. 
+      The .Net application is platform-independent also because of the Mono framework. 
+      Using the Mono framework the .Net application can run on any Operating System including windows. 
+      Mono framework is a third-party software developed by Novell Company which is now a part of Micro Focus Company. It is a paid framework. 
  
