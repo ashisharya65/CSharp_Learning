@@ -12,7 +12,7 @@ This tutorial will cover the following topics:
 - [Creating a Hello World Program](HelloWorld.md)
 - [Comments](Comments.md)
 - [Learning About Built-In Types and Variables](types-variables.md)
-- - [Working with Strings](strings.md)
+- [Working with Strings](strings.md)
 - [Working with Dates and Times](datetimes.md)
 - [Making Decisions in Your Program](making-decisions.md)
 - [Implementing Logical Expressions](logical-expressions.md)
