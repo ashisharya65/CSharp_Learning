@@ -27,13 +27,13 @@
 
 # Main Components of .NET Framework
   
-  - **Common Language Runtime (CLR)**: CLR is the basic and Virtual Machine component of the    .NET Framework. It is the run-time environment in the .NET Framework that runs the codes and helps in making the development process easier by providing various services such as remoting, thread management, type-safety, memory management, robustness, etc.. 
+  - **Common Language Runtime (CLR)**: CLR is the basic and Virtual Machine component of the .NET Framework. It is the run-time environment in the .NET Framework that runs        the codes and helps in making the development process easier by providing various services such as remoting, thread management, type-safety, memory management,                robustness, etc.. 
   
-  Basically, it is responsible for managing the execution of .NET programs regardless of any    .NET programming language. It also helps in the management of code, as code that targets the runtime is known as the Managed Code, and code that doesn’t target to runtime is known as Unmanaged code. 
+     Basically, it is responsible for managing the execution of .NET programs regardless of any    .NET programming language. It also helps in the management of code, as code      that targets the runtime is known as the Managed Code, and code that doesn’t target to runtime is known as Unmanaged code. 
 
-  - **Framework Class Library(FCL)**: It is the collection of reusable, object-oriented class libraries and methods, etc that can be integrated with CLR. Also called the Assemblies. It is just like the header files in C/C++ and packages in java. Installing the .NET framework basically is the installation of CLR and FCL into the system. Below is the overview of the .NET Framework : 
+  - **Framework Class Library(FCL)**: It is the collection of reusable, object-oriented class libraries and methods, etc that can be integrated with CLR. Also called the          Assemblies. It is just like the header files in C/C++ and packages in java. Installing the .NET framework basically is the installation of CLR and FCL into the system.        Below is the overview of the .NET Framework : 
  
-                 <img width="389" alt="image" src="https://user-images.githubusercontent.com/56192979/144592269-e95286b4-503f-444b-ad80-0c09f5d70cc0.png">
+       <img width="389" alt="image" src="https://user-images.githubusercontent.com/56192979/144592269-e95286b4-503f-444b-ad80-0c09f5d70cc0.png">
       
 # Is .NET application platform dependent or platform independent?
 
