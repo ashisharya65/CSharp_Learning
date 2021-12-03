@@ -1,5 +1,4 @@
 # Common Patterns and Antipatterns
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Common C# Patterns and Antipatterns
 
