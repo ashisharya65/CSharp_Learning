@@ -1,5 +1,4 @@
 # Working with Arrays and Collections
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Arrays
 
