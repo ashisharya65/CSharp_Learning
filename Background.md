@@ -33,12 +33,12 @@
 
   - **Framework Class Library(FCL)**: It is the collection of reusable, object-oriented class libraries and methods, etc that can be integrated with CLR. Also called the Assemblies. It is just like the header files in C/C++ and packages in java. Installing the .NET framework basically is the installation of CLR and FCL into the system. Below is the overview of the .NET Framework : 
  
-    <img width="389" alt="image" src="https://user-images.githubusercontent.com/56192979/144592269-e95286b4-503f-444b-ad80-0c09f5d70cc0.png">
+                 <img width="389" alt="image" src="https://user-images.githubusercontent.com/56192979/144592269-e95286b4-503f-444b-ad80-0c09f5d70cc0.png">
       
 # Is .NET application platform dependent or platform independent?
 
     - The combination of Operating System Architecture and CPU Architecture is known as the platform. 
-    Platform dependent means the programming language code will run only on particular Operating System. 
+      Platform dependent means the programming language code will run only on particular Operating System. 
     
-  A .NET application is platform-dependent because of the .NET framework which is only able to run on the Windows-based operating system. The .Net application is platform-independent also because of the Mono framework. Using the Mono framework the .Net application can run on any Operating System including windows. Mono framework is a third-party software developed by Novell Company which is now a part of Micro Focus Company. It is a paid framework. 
+    - A .NET application is platform-dependent because of the .NET framework which is only able to run on the Windows-based operating system. The .Net application is               platform-independent also because of the Mono framework. Using the Mono framework the .Net application can run on any Operating System including windows. Mono framework       is a third-party software developed by Novell Company which is now a part of Micro Focus Company. It is a paid framework. 
  
