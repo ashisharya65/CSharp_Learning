@@ -1,5 +1,4 @@
 # Encapsulation and Object-Oriented Design
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## What is Encapsulation? 
 
