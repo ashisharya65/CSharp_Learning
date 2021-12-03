@@ -1,5 +1,4 @@
 # Defining and Calling Methods
-by [Steve Smith](http://deviq.com/me/steve-smith), [Brendan Enrick](http://deviq.com/me/brendan-enrick), [Eric Fleming](http://deviq.com/me/eric-fleming)
 
 ## What are Methods?
 
