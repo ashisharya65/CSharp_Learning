@@ -1,5 +1,4 @@
 # Looping a Known Number of Times
-by [Brendan Enrick](http://deviq.com/me/brendan-enrick)
 
 ## For Loops
 
