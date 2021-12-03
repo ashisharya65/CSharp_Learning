@@ -1,5 +1,4 @@
 # Working with Strings
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Strings in C#
 
