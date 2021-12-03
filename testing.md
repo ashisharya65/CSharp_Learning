@@ -1,5 +1,4 @@
 # Testing Your Code
-by [Eric Fleming](http://deviq.com/me/eric-fleming)
 
 ## Unit Testing Your Code
 
