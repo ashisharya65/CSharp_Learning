@@ -1,6 +1,27 @@
-**C#** is a general-purpose, modern and object-oriented programming language pronounced as **C Sharp.**
+**C#** is a general-purpose, modern and object-oriented programming language (pronounced as **C Sharp.**) that runs on .Net Framework.
+
+The first version was released in year 2002. The latest version C# 10.0 was released in November 2021.
 
 *  It was developed by Microsoft led by **Anders Hejlsberg** and his team within the .NET initiative and was approved by the **European Computer Manufacturers Association (ECMA)** and **International Standards Organization (ISO)**.
+
+* C# is used for:
+  - Mobile applications
+  - Desktop applications
+  - Web applications
+  - Web services
+  - Web sites
+  - Games
+  - VR
+  - Database applications
+  - And much, much more!
+
+# Why Use C#?
+
+* It is one of the most popular programming language in the world
+* It is easy to learn and simple to use
+* It has a huge community support
+* C# is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering    development costs.
+* As C# is close to C, C++ and Java, it makes it easy for programmers to switch to C# or vice versa
 
 # Introduction to .NET Framework
 
