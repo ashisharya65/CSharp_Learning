@@ -1,6 +1,6 @@
 Now let's understand the below program:
 
-##
+
 using System;
 
 namespace HelloWorld
@@ -13,5 +13,3 @@ namespace HelloWorld
     }
   }
 }
-
-##
