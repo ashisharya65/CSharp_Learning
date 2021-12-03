@@ -1,5 +1,4 @@
 # Troubleshooting
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Common Errors
 
