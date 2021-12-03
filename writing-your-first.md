@@ -1,5 +1,4 @@
 # Writing Your First C# Program
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Getting and Installing .NET
 
