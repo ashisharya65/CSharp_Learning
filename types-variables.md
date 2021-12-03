@@ -1,5 +1,4 @@
 # Learning About Built-In Types and Variables
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Adding Variables
 
