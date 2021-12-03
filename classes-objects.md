@@ -1,5 +1,4 @@
 # Understanding Classes and Objects
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Classes in C# 
 
