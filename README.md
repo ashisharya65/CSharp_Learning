@@ -10,3 +10,4 @@ This tutorial is aimed at people who are learning C# for the first time. No prio
 This tutorial will cover the following topics:
 - [History of C#](Background.md)
 - [Creating a Hello World Program](HelloWorld.md)
+- [Comments](Comments.md)
