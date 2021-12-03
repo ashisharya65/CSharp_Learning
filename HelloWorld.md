@@ -1,4 +1,4 @@
-Now let's understanding the below mention program:
+Now let's understand the below program:
 
 /*
 using System;
