@@ -1,5 +1,4 @@
 # Looping Through Members of a Collection
-by [Steve Smith](http://deviq.com/me/steve-smith)
 
 ## Using the ``foreach`` Loop
 
