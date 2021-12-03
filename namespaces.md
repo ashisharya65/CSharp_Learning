@@ -1,5 +1,4 @@
 # Understanding Namespaces
-by [Brendan Enrick](http://deviq.com/me/brendan-enrick)
 
 ## What Namespaces Are
 
