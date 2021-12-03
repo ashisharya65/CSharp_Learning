@@ -31,19 +31,10 @@
   
   Basically, it is responsible for managing the execution of .NET programs regardless of any    .NET programming language. It also helps in the management of code, as code that targets the runtime is known as the Managed Code, and code that doesn’t target to runtime is known as Unmanaged code. 
 
-  - **Framework Class Library(FCL)**: It is the collection of reusable, object-oriented class libraries and methods, etc that can be integrated with CLR. Also called the Assemblies. It is just like the header files in C/C++ and packages in java. Installing the .NET framework basically is the installation of CLR and FCL into the system. Below is the overview of the .NET Framework  
-         
-                                                      .Net FrameWork
-                           ________________________________|________________________________
-                          |                                                                 |
-            Common Language Runtime (CLR)                                          Framework Class Library
-             _____________|________________________________________________________________________
-            |                                           |                                          | 
-   Common Language Infra (CLI)                  Garbage Collector                        Just in Time (JIT) Compiler
-            |___________________________________________________________________
-                          |                                                     |
-              Common Language Specification (CLS)                       Common Type System (CTS)
-
+  - **Framework Class Library(FCL)**: It is the collection of reusable, object-oriented class libraries and methods, etc that can be integrated with CLR. Also called the Assemblies. It is just like the header files in C/C++ and packages in java. Installing the .NET framework basically is the installation of CLR and FCL into the system. Below is the overview of the .NET Framework : 
+ 
+    <img width="389" alt="image" src="https://user-images.githubusercontent.com/56192979/144592269-e95286b4-503f-444b-ad80-0c09f5d70cc0.png">
+      
 # Is .NET application platform dependent or platform independent?
 
     - The combination of Operating System Architecture and CPU Architecture is known as the platform. 
