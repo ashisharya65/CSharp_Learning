@@ -23,4 +23,12 @@ Now let's understand the below program:
 
 **Note**: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
-**Note**: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper           name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for             how to install C#. The output should be:
+**Note**: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper           name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for             how to install C#.
+
+# WriteLine or Write
+
+The most common method to output something in C# is WriteLine(), but you can also use Write().
+
+The difference is that WriteLine() prints the output on a new line each time, while Write() prints on the same line (note that you should remember to add spaces when needed, for better readability):
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/56192979/144616433-d2734501-0d44-466f-b4e2-f83a9ce34f0c.png">
